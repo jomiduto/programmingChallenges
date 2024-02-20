@@ -23,5 +23,5 @@ function balancedExpressions($str1, $str2) {
     echo "<br>";
     echo $out2 = implode($out2);
 }
-
+    
 echo balancedExpressions("Hola este es un mensaje de prueba", "Recibiendo mensaje de prueba todo en orden");
